@@ -17,8 +17,8 @@ website/
 |   └── categoryImg.jpeg 
 │   └── people.png 
 |   └── profile.jpg 
-|   └── reader.png  
-|   └── views.png 
+|   └── reader.png
+|   └── views.png
 ├── category.html 
 ├── contactForm.html 
 ├── Contest.html 
