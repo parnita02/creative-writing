@@ -7,7 +7,7 @@ The website has been designed considering the audience who have interest in read
 # Technologies Used
  - VS code: The IDE used to write the code is VS Code.
  - HTML: HTML has been used to give the structure to the website.
- - CSS: CSS has been used to give an interactive interface to the website.
+ - CSS: External CSS has been used to give an interactive interface to the website.
 # Folder Structure
 website/
 ├── images/ 
@@ -19,7 +19,6 @@ website/
 |   └── profile.jpg 
 |   └── reader.png
 |   └── views.png
-
 ├── category.html
 ├── contactForm.html 
 ├── Contest.html
