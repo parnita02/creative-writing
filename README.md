@@ -12,8 +12,8 @@ The website has been designed considering the audience who have interest in read
 website/
 ├── images/ 
 │   └── bg.jpg 
-|   └── book.avif  
-|   └── book.png 
+|   └── book.avif
+|   └── book.png
 |   └── categoryImg.jpeg 
 │   └── people.png 
 |   └── profile.jpg 
