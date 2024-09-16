@@ -19,11 +19,12 @@ website/
 |   └── profile.jpg 
 |   └── reader.png
 |   └── views.png
-├── category.html 
+
+├── category.html
 ├── contactForm.html 
-├── Contest.html 
-├── home.html 
-├── library.html 
-├── MyProfile.html 
-├── style.css 
+├── Contest.html
+├── home.html
+├── library.html
+├── MyProfile.html
+├── style.css
 └── README.md 
