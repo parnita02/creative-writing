@@ -8,7 +8,7 @@ The website has been designed considering the audience who have interest in read
  - VS code: The IDE used to write the code is VS Code.
  - HTML: HTML has been used to give the structure to the website.
  - CSS: CSS has been used to give an interactive interface to the website.
- #Folder Structure
+# Folder Structure
 website/
 ├── images/ 
 │   └── bg.jpg 
